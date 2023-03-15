@@ -13,9 +13,9 @@ I'm Jannis Milz, a teenager coding enthusiast who's super excited to learn new t
 
 ---
 
-🏗 *Personal website under construction*
+🏗 *Personal website's under construction*
 
 Working at [@uzh](https://github.com/uzh)<br />
 Creator of [@AquaHubStudio](https://github.com/AquaHubStudio). Always working on new projects.
 
-Stay hungry stay foolish! 📖
+*Stay hungry, stay foolish!* 📖
