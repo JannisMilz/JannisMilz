@@ -4,12 +4,18 @@ I'm Jannis Milz, a teenager coding enthusiast who's super excited to learn new t
 
 > 💪 *Either I find a way or I create one*
 
-Here are some facts about me:
-- 💻 I'm mainyl working with [TypeScript](https://typescriptlang.org) and [Laravel](https://laravel.com)
-- 🔭 I feel most confident working with the TALL stack ([TailwindCSS](https://tailwindcss.com/), [Alpine](https://github.com/alpinejs/alpine/), [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/))
-- 🌱 I’m currently learning more about [Laravel](https://laravel.com)
-- 👯 I’m looking forward to collaborate to open source projects
+---
+
+- 💻 I'm mainly working with [TypeScript](https://typescriptlang.org) and [Laravel](https://laravel.com)
+- 🔮 Programming since I'm 12 years
+- 🌱 I’m currently learning more about [Laravel](https://laravel.com) and the [TALL](https://tallstack.dev) stack
+- 👯 I’m looking forward to collaborate to open source
+
+---
 
 🏗 *Personal website under construction*
 
-Creator of @AquaHubStudio and always working on 
+Working at [@uzh](https://github.com/uzh)<br />
+Creator of [@AquaHubStudio](https://github.com/AquaHubStudio). Always working on new projects.
+
+Stay hungry stay foolish! 📖
