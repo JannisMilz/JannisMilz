@@ -14,7 +14,7 @@ I'm Jannis Milz, a teenager coding enthusiast who's super excited to learn new t
 ---
 
 ![Programming languages](https://skillicons.dev/icons?i=html,css,js,ts,php,py,java,latex,md,bash)
-![Frameworks and libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,tailwindcss,laravel,prisma,jest,spring,astro,svelte)
+![Frameworks and libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,tailwindcss,laravel,prisma,jest,spring,astro,svelte,flask)
 ![Others](https://skillicons.dev/icons?i=vscode,github,gitlab,git,nginx,mysql,sqlite,docker,firebase,linux,postman)
 
 ---
